@@ -14,4 +14,13 @@ public class First {
 
         // more lines
     }
+    public  void thirdBranch(){
+
+    }
+    public void thirdBranchNewCommit(){
+
+    }
+    public void madeLastChange(){
+
+    }
 }
