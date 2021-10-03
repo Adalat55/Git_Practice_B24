@@ -17,4 +17,7 @@ public class First {
     public  void thirdBranch(){
 
     }
+    public void thirdBranchNewCommit(){
+
+    }
 }
