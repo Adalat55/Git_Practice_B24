@@ -20,4 +20,7 @@ public class First {
     public void thirdBranchNewCommit(){
 
     }
+    public void madeLastChange(){
+
+    }
 }
